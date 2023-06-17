@@ -32,7 +32,7 @@
 
 </br>
 
-# Developed a special section for learning exercises with all the requires
+# Developed a special section with best in class exercise for the targeted muscle with all the requires learning
 ![preview img](/learn-chest-exercise1.png)
 # Helps you for all your fitness-goals
 
