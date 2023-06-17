@@ -2,7 +2,7 @@
 
 
 # A MERN Fitness Website.
-## Live at @https://myfitnesspal-app.vercel.app
+## Live at @https://my-fitness-pal-mern-akm6.vercel.app
 
 </br>
 </br>
