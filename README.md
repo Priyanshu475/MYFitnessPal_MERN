@@ -13,6 +13,15 @@
 </br>
 
 
+## Mobile View
+
+![preview img](/mobile-view.png)
+
+
+</br>
+</br>
+
+
 ![preview img](/nutrient-details1.png)
 
 
