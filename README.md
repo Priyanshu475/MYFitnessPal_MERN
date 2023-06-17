@@ -13,7 +13,7 @@
 </br>
 
 
-![preview img](/Login-page1.png)
+![preview img](/nutrient-details1.png)
 
 
 # Contains feature to store all your workouts stats.
@@ -26,7 +26,7 @@
 
 
 #  Build-in Help to make your own diet plan through food details fetched by external API-Calorieninjas.
-![preview img](/nutrient-details1.png)
+![preview img](/Login-page1.png)
 
 </br>
 
