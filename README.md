@@ -7,18 +7,18 @@
 </br>
 </br>
 
-![preview img](/Home-page.png)
+![preview img](/Home-page1.png)
 
 
 </br>
 
 
-![preview img](/Login-page.png)
+![preview img](/Login-page1.png)
 
 
 # Contains feature to store all your workouts stats.
 # A separate section for calculations of the all the essentials thing i.e-BMI,TDEE,etc.
-![preview img](/calculating_ess.png)
+![preview img](/calculating_ess1.png)
 
 </br>
 </br>
@@ -26,13 +26,13 @@
 
 
 #  Build-in Help to make your own diet plan through food details fetched by external API-Calorieninjas.
-![preview img](/nutrient-details.png)
+![preview img](/nutrient-details1.png)
 
 </br>
 
 </br>
 
 # Developed a special section for learning exercises with all the requires
-![preview img](/learn-chest-exercise.png)
+![preview img](/learn-chest-exercise1.png)
 # Helps you for all your fitness-goals
 
