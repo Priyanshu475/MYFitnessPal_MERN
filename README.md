@@ -1,4 +1,4 @@
-#  💪 A Fitness Website(MYFitnessPal)
+#   A Fitness Website(MYFitnessPal) 💪
 
 
 # A MERN Fitness Website.
@@ -7,7 +7,7 @@
 </br>
 </br>
 
-![preview img](Home-page1.png)
+![preview img](/Home-page1.png)
 
 
 </br>
