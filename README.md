@@ -7,8 +7,7 @@
 </br>
 </br>
 
-![preview img](/Home-page1.png)
-
+<img src=/Home-page.png />
 
 </br>
 
