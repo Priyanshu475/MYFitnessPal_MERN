@@ -8,7 +8,7 @@
 </br>
 
 
-![preview img](/Home-page1.png)
+![preview img](/Home-page1.jpg)
 
 
 </br>
