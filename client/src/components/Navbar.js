@@ -46,7 +46,6 @@ const Navbar = () => {
               <li><Link to="/login">Login</Link></li>
               <li><Link to="/signup">Register</Link></li>
           </ul>
-          <img src='https://media.istockphoto.com/id/1093329548/vector/logo-dumbbell-in-flat-style-physical-exercise-fitness-equipment-workout-concept.jpg?s=612x612&w=0&k=20&c=d25KOu5AmCuv9IO-e-dUFt_fEwHtuqx55sWJ820evQ8=' alt='' className='logo-1'/>
           <h1 className="logo-11">  MYFitnessPal</h1>
       </div>
   </nav>
