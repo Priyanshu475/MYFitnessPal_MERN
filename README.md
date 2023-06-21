@@ -26,11 +26,11 @@
 </br>
 </br>
 
+# It has a function that allows you to save all of your exercise stats.
 
 ![nutrient-details1](https://github.com/Priyanshu475/MyFitnessPal_MERN/assets/96469123/d9c92a49-ac55-44de-95c4-5b32939993b0)
 
 
-# It has a function that allows you to save all of your exercise stats.
 # A separate section for calculating all of the necessities, such as BMI, TDEE, and so on.
 ![calculating_ess1](https://github.com/Priyanshu475/MyFitnessPal_MERN/assets/96469123/f742592b-802f-4fe2-af6e-07b2c4f155b4)
 
